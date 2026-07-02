@@ -1,13 +1,26 @@
-### Nouran Nasser Ibrahim
+<div align="center">
 
-<a href="https://nourannasser2210.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1024"/></a>
-<a href="https://linkedin.com/in/nourannasser22"><img src="https://img.shields.io/badge/LinkedIn-nourannasser22-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1024"/></a>
-<a href="https://huggingface.co/nourannasser22"><img src="https://img.shields.io/badge/Hugging%20Face-nourannasser22-FB923C?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0B1024"/></a>
-<a href="mailto:nassernouran654@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1024"/></a>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <b>Nouran Nasser Ibrahim</b>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=34&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+AI+Engineer+%7C+Software+Tester;Deep+Learning+%2B+NLP+%2B+Computer+Vision;Building+AI+Systems+that+Understand+Human+Emotions;Transforming+Ideas+into+Intelligent+Applications" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Building+models+that+understand+how+we+feel;Deep+Learning+%2B+NLP+%2B+Computer+Vision;BiLSTM+%C2%B7+CNN+%C2%B7+TensorFlow+%C2%B7+Keras+%C2%B7+PyTorch;From+notebook+to+live+deployment+%E2%86%92+Hugging+Face+Spaces" alt="Typing SVG"/>
+<br><br>
+
+<a href="https://nourannasser2210.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1024"/>
+</a>
+
+<a href="https://linkedin.com/in/nourannasser22">
+<img src="https://img.shields.io/badge/LinkedIn-nourannasser22-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1024"/>
+</a>
+
+<a href="https://huggingface.co/nourannasser22">
+<img src="https://img.shields.io/badge/Hugging%20Face-nourannasser22-FB923C?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0B1024"/>
+</a>
+
+<a href="mailto:nassernouran654@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1024"/>
+</a>
 
 </div>
 
@@ -148,12 +161,11 @@ Built with **Team RFTN Squad** at NASA Space Apps Challenge Cairo. A web platfor
 ## 💼 Experience
 
 ```
-2025 – Present   Data Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI)
-2025             Internship Trainee — CIB Egypt
-2025             Trainee, InnovEgypt Program — ITIDA
-                 → 45-hour innovation & entrepreneurship program, graduation project graded A
-2024 – 2025      Software Developer (Software Testing) — DEPI
-2023 – 2024      ICPC Contestant — ICPC ECU Community (Level 1 completed)
+🔹 Data Engineering Trainee Digital Egypt Pioneers Initiative (DEPI) 2025 – Present
+🔹 Internship Trainee Commercial International Bank (CIB Egypt) 2025
+🔹 InnovEgypt Program Trainee Information Technology Industry Development Agency (ITIDA) 2025 • Completed an intensive 45-hour Innovation & Entrepreneurship Program • Graduation Project achieved Grade A
+🔹 Software Testing Trainee Digital Egypt Pioneers Initiative (DEPI) 2024 – 2025
+🔹 ICPC Contestant ICPC ECU Community 2023 – 2024 • Successfully completed Level 1 Competitive Programming Track
 ```
 
 <br/>
@@ -172,15 +184,26 @@ Built with **Team RFTN Squad** at NASA Space Apps Challenge Cairo. A web platfor
 
 <br/>
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nourannasser2210&show_icons=true&count_private=true&hide_title=false&hide_border=true&bg_color=0B1024&title_color=A855F7&icon_color=22D3EE&text_color=F5F3FF&ring_color=FB923C" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nourannasser2210&hide_border=true&background=0B1024&stroke=22D3EE&ring=A855F7&fire=FB923C&currStreakLabel=F5F3FF&sideLabels=F5F3FF&dates=8B7FB0" width="49%"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=nourannasser2210&show_icons=true&count_private=true&hide_title=false&hide_border=true&bg_color=0B1024&title_color=A855F7&icon_color=22D3EE&text_color=F5F3FF&ring_color=FB923C"/>
+
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=nourannasser2210&hide_border=true&background=0B1024&stroke=22D3EE&ring=A855F7&fire=FB923C&currStreakLabel=F5F3FF&sideLabels=F5F3FF&dates=8B7FB0"/>
+
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourannasser2210&layout=compact&hide_border=true&bg_color=0B1024&title_color=A855F7&text_color=F5F3FF&langs_count=8" width="60%"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourannasser2210&layout=compact&hide_border=true&bg_color=0B1024&title_color=A855F7&text_color=F5F3FF&langs_count=8"/>
+
 </div>
 
 <br/>
