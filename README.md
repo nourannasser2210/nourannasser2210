@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:22D3EE&height=200&section=header&text=Nouran%20Nasser&fontSize=48&fontColor=F5F3FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI/ML%20Engineer%20%7C%20Deep%20Learning%20%26%20NLP&descAlignY=58&descSize=18&descColor=E9D5FF" width="100%"/>
-
 <a href="https://linkedin.com/in/nourannasser22"><img src="https://img.shields.io/badge/LinkedIn-nourannasser22-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1024"/></a>
 <a href="https://huggingface.co/nourannasser22"><img src="https://img.shields.io/badge/Hugging%20Face-nourannasser22-FB923C?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0B1024"/></a>
 <a href="mailto:nassernouran654@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1024"/></a>
