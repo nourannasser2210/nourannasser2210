@@ -233,4 +233,4 @@ I'm actively looking for an **AI/ML internship** — if you're building somethin
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A855F7,100:7C3AED&height=100&section=footer" width="100%"/>
 
 </div>
-ing README (2).md…]()
+
