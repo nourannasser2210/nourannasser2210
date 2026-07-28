@@ -185,28 +185,6 @@ Built with **Team RFTN Squad** at NASA Space Apps Challenge Cairo. A web platfor
 <br/>
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=nourannasser2210&show_icons=true&count_private=true&hide_title=false&hide_border=true&bg_color=0B1024&title_color=A855F7&icon_color=22D3EE&text_color=F5F3FF&ring_color=FB923C"/>
-
-  <img height="180em"
-       src="https://streak-stats.demolab.com?user=nourannasser2210&hide_border=true&background=0B1024&stroke=22D3EE&ring=A855F7&fire=FB923C&currStreakLabel=F5F3FF&sideLabels=F5F3FF&dates=8B7FB0"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourannasser2210&layout=compact&hide_border=true&bg_color=0B1024&title_color=A855F7&text_color=F5F3FF&langs_count=8"/>
-
-</div>
-
-<br/>
 
 ## 🎓 Education
 
